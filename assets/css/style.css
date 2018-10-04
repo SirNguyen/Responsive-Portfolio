@@ -221,6 +221,9 @@ input[type=submit] {
 }
 
 @media screen (max-width: 768px) {
+  .container {
+    width: auto;
+  }
 
 }
 
